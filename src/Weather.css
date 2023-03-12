@@ -21,6 +21,11 @@
   font-size: 20px;
 }
 
+.Weather img {
+  height: 64px;
+  width: 64px;
+}
+
 .Weather strong {
   font-size: 64px;
   line-height: 1;
